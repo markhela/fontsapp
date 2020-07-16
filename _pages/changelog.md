@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What's New
+title: EULA
 include_in_header: false
 ---
 
