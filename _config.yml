@@ -54,20 +54,16 @@ features                                  :
     description                           : 
     fontawesome_icon_name                 : 
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Boost your posts
+    description                           : wow your friends with cool font collection.
     fontawesome_icon_name                 : 
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
+  - title                                 : Discover customized keyboards
+    description                           : with amazing fonts and emojis.
     fontawesome_icon_name                 : 
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : 
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Works with
+    description                           : all the popular social media and texting apps.
     fontawesome_icon_name                 : 
 
   - title                                 : # New Feature Title
